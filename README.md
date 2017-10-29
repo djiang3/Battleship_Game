@@ -32,7 +32,6 @@ board, white pegs indicate misses while red pegs indicate hits. After all
 points on a ship have been hit, a statement appears on the terminal indicating 
 the ship.  Once a player loses all of his/her ships, the game ends, displaying
 the winner of the game.  The game closes with a click on the canvas of the 
-winner's shot board. The game closes with a click on the canvas of the 
 winner's shot board.
 
 ********How To Run********
